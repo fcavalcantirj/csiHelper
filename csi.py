@@ -30,7 +30,7 @@ try:
             searchStr = identification
         if((latitude == 'null' or longitude == 'null') and searchStr != 'null'):
             count=count+1
-            print 'searching for str=[',searchStr,']'
+            print 'params=[',params,']'
             params = {'address': searchStr + ', '+sys.argv[2], 'sensor': 'false'} 
             url = 'http://maps.googleapis.com/maps/api/geocode/json?' + urllib.urlencode(params)
 

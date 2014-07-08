@@ -46,7 +46,6 @@ try:
             outputRows.append(row)
         else:
             outputRows.append(row)
-        #print latitude
     print 'without latLng=['+str(count)+']'
 finally:
     print 'outputing to csv...'

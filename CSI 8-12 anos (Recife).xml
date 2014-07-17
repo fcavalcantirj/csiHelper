@@ -1,0 +1,1714 @@
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:jr="http://openrosa.org/javarosa">
+  <h:head>
+    <h:title>CSI 8-12 anos (Recife)</h:title>
+    <model>
+      <instance>
+        <data id="build_CSI-8-12-anos-Recife-_1401736866">
+          <meta>
+            <instanceID/>
+          </meta>
+          <Identificacao>
+            <Data/>
+            <localGps/>
+            <Localizacao/>
+            <Genero/>
+            <ondemora/>
+            <Idade/>
+          </Identificacao>
+          <teste1/>
+          <teste2/>
+          <comunidade1/>
+          <comunidade2/>
+          <comunidade3/>
+          <comunidade4/>
+          <comunidade5/>
+          <casa1/>
+          <casa2/>
+          <casa3/>
+          <casa4/>
+          <casa5/>
+          <escola1/>
+          <escola2/>
+          <escola3/>
+          <escola4/>
+          <escola5/>
+          <espacos1/>
+          <espacos2/>
+          <espacos3/>
+          <espacos4/>
+          <espacos5/>
+          <pessoas1/>
+          <pessoas2/>
+          <pessoas3/>
+          <pessoas4/>
+          <pessoas5/>
+          <eu1/>
+          <eu2/>
+          <eu3/>
+          <eu4/>
+          <eu5/>
+          <FavelaNews1/>
+          <FavelaNews2/>
+          <FavelaNews3/>
+          <FavelaNews4/>
+          <FavelaNews5/>
+        </data>
+      </instance>
+      <itext>
+        <translation lang="eng">
+          <text id="/data/Identificacao:label">
+            <value>Identificação entrevistados</value>
+          </text>
+          <text id="/data/Identificacao/Data:label">
+            <value>informe o dia mês e ano</value>
+          </text>
+          <text id="/data/Identificacao/localGps:label">
+            <value>Obter via GPS</value>
+          </text>
+          <text id="/data/Identificacao/Localizacao:label">
+            <value>Informe sua localização (caso o GPS tenha falhado)</value>
+          </text>
+          <text id="/data/Identificacao/Genero:label">
+            <value>Informe o sexo do entrevistado</value>
+          </text>
+          <text id="/data/Identificacao/Genero:option0">
+            <value>Masculino</value>
+          </text>
+          <text id="/data/Identificacao/Genero:option1">
+            <value>Feminino</value>
+          </text>
+          <text id="/data/Identificacao/ondemora:label">
+            <value>Escreva o nome do lugar onde o entrevistado mora</value>
+          </text>
+          <text id="/data/Identificacao/Idade:label">
+            <value>Pergunte ao entrevistado qual a idade dele (a) e escreva aqui</value>
+          </text>
+          <text id="/data/teste1:label">
+            <value>Eu gosto de comer biscoito</value>
+          </text>
+          <text id="/data/teste1:hint">
+            <value></value>
+          </text>
+          <text id="/data/teste1:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/teste1:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/teste1:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/teste2:label">
+            <value>Eu gosto de ajudar a arrumar a casa</value>
+          </text>
+          <text id="/data/teste2:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/teste2:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/teste2:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/comunidade1:label">
+            <value>Eu gosto de morar na minha comunidade</value>
+          </text>
+          <text id="/data/comunidade1:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/comunidade1:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/comunidade1:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/comunidade1:option3">
+            <value>Não quer reponder</value>
+          </text>
+          <text id="/data/comunidade1:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/comunidade2:label">
+            <value>As crianças da comunidade onde eu moro têm muitas chances de crescer e ter uma vida boa </value>
+          </text>
+          <text id="/data/comunidade2:hint">
+            <value></value>
+          </text>
+          <text id="/data/comunidade2:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/comunidade2:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/comunidade2:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/comunidade2:option3">
+            <value>Não quer reponder</value>
+          </text>
+          <text id="/data/comunidade2:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/comunidade3:label">
+            <value>Eu tenho medo de ir para a rua</value>
+          </text>
+          <text id="/data/comunidade3:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/comunidade3:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/comunidade3:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/comunidade3:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/comunidade3:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/comunidade4:label">
+            <value>A comunidade onde eu moro é um lugar perigoso</value>
+          </text>
+          <text id="/data/comunidade4:hint">
+            <value></value>
+          </text>
+          <text id="/data/comunidade4:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/comunidade4:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/comunidade4:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/comunidade4:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/comunidade4:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/comunidade5:label">
+            <value>Eu me sinto seguro (a) na rua na comunidade onde eu moro</value>
+          </text>
+          <text id="/data/comunidade5:hint">
+            <value></value>
+          </text>
+          <text id="/data/comunidade5:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/comunidade5:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/comunidade5:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/comunidade5:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/comunidade5:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/casa1:label">
+            <value>Eu me sinto protegido na minha casa</value>
+          </text>
+          <text id="/data/casa1:hint">
+            <value></value>
+          </text>
+          <text id="/data/casa1:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/casa1:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/casa1:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/casa1:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/casa1:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/casa2:label">
+            <value>Dentro de casa é mais seguro que fora de casa</value>
+          </text>
+          <text id="/data/casa2:hint">
+            <value></value>
+          </text>
+          <text id="/data/casa2:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/casa2:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/casa2:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/casa2:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/casa2:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/casa3:label">
+            <value>Na minha casa, se eu fizer algo errado, eu apanho </value>
+          </text>
+          <text id="/data/casa3:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/casa3:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/casa3:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/casa3:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/casa3:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/casa4:label">
+            <value>As pessoas na minha casa batem umas nas outras</value>
+          </text>
+          <text id="/data/casa4:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/casa4:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/casa4:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/casa4:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/casa4:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/casa5:label">
+            <value>Eu posso sair e brincar fora de casa</value>
+          </text>
+          <text id="/data/casa5:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/casa5:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/casa5:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/casa5:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/casa5:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/escola1:label">
+            <value>Eu gosto de ir para a escola</value>
+          </text>
+          <text id="/data/escola1:hint">
+            <value></value>
+          </text>
+          <text id="/data/escola1:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/escola1:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/escola1:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/escola1:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/escola1:option4">
+            <value>Não se responde</value>
+          </text>
+          <text id="/data/escola2:label">
+            <value>O caminho que eu (normalmente) faço pra ir pra escola pode ser perigoso</value>
+          </text>
+          <text id="/data/escola2:hint">
+            <value></value>
+          </text>
+          <text id="/data/escola2:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/escola2:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/escola2:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/escola2:option3">
+            <value>Não quer repsonder</value>
+          </text>
+          <text id="/data/escola2:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/escola3:label">
+            <value>Eu falto à aula porque tem muita violência lá</value>
+          </text>
+          <text id="/data/escola3:hint">
+            <value></value>
+          </text>
+          <text id="/data/escola3:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/escola3:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/escola3:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/escola3:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/escola3:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/escola4:label">
+            <value>As escolas na minha comunidade cancelam aulas por causa da violência </value>
+          </text>
+          <text id="/data/escola4:hint">
+            <value></value>
+          </text>
+          <text id="/data/escola4:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/escola4:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/escola4:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/escola4:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/escola4:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/escola5:label">
+            <value>Eu me sinto seguro na escola</value>
+          </text>
+          <text id="/data/escola5:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/escola5:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/escola5:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/escola5:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/escola5:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/espacos1:label">
+            <value>É seguro eu andar de ônibus e outros transportes públicos</value>
+          </text>
+          <text id="/data/espacos1:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/espacos1:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/espacos1:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/espacos1:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/espacos1:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/espacos2:label">
+            <value>É seguro eu andar a pé e de bicicleta pela comunidade onde eu moro</value>
+          </text>
+          <text id="/data/espacos2:hint">
+            <value></value>
+          </text>
+          <text id="/data/espacos2:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/espacos2:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/espacos2:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/espacos2:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/espacos2:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/espacos3:label">
+            <value>Na comunidade onde eu moro tem espaços onde é seguro eu brincar</value>
+          </text>
+          <text id="/data/espacos3:hint">
+            <value></value>
+          </text>
+          <text id="/data/espacos3:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/espacos3:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/espacos3:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/espacos3:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/espacos3:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/espacos4:label">
+            <value>Eu me sinto seguro em lugares fora da minha comunidade</value>
+          </text>
+          <text id="/data/espacos4:hint">
+            <value></value>
+          </text>
+          <text id="/data/espacos4:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/espacos4:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/espacos4:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/espacos4:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/espacos4:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/espacos5:label">
+            <value>Eu me sinto seguro na casa de outras pessoas</value>
+          </text>
+          <text id="/data/espacos5:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/espacos5:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/espacos5:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/espacos5:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/espacos5:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/pessoas1:label">
+            <value>Tem pessoas más na comunidade onde eu moro </value>
+          </text>
+          <text id="/data/pessoas1:option0">
+            <value>Nem um pouco</value>
+          </text>
+          <text id="/data/pessoas1:option1">
+            <value>Mais ou menos</value>
+          </text>
+          <text id="/data/pessoas1:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/pessoas1:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/pessoas1:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/pessoas2:label">
+            <value>Tem pessoas na minha família que não me protegem</value>
+          </text>
+          <text id="/data/pessoas2:hint">
+            <value></value>
+          </text>
+          <text id="/data/pessoas2:option0">
+            <value>Nem um pouco</value>
+          </text>
+          <text id="/data/pessoas2:option1">
+            <value>Mais ou menos</value>
+          </text>
+          <text id="/data/pessoas2:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/pessoas2:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/pessoas2:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/pessoas3:label">
+            <value>Eu me sinto protegido (a) pelos meus vizinhos</value>
+          </text>
+          <text id="/data/pessoas3:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/pessoas3:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/pessoas3:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/pessoas3:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/pessoas3:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/pessoas4:label">
+            <value>Eu me sinto protegido (a) pela polícia </value>
+          </text>
+          <text id="/data/pessoas4:hint">
+            <value></value>
+          </text>
+          <text id="/data/pessoas4:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/pessoas4:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/pessoas4:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/pessoas4:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/pessoas4:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/pessoas5:label">
+            <value>Eu me sinto protegido (a) pelo traficante</value>
+          </text>
+          <text id="/data/pessoas5:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/pessoas5:option1">
+            <value>As vezes - mais ou menos</value>
+          </text>
+          <text id="/data/pessoas5:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/pessoas5:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/pessoas5:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/eu1:label">
+            <value>Se eu sinto que estou correndo perigo, eu sei pra quem posso pedir ajuda</value>
+          </text>
+          <text id="/data/eu1:option0">
+            <value>Nunca -  nem um pouco</value>
+          </text>
+          <text id="/data/eu1:option1">
+            <value>Às vezes - Mais ou menos</value>
+          </text>
+          <text id="/data/eu1:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/eu1:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/eu1:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/eu2:label">
+            <value>Se tem um problema (desastre perigo) na comunidade onde eu moro, eu sei o que tenho que fazer</value>
+          </text>
+          <text id="/data/eu2:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/eu2:option1">
+            <value>Às vezes - mais ou menos</value>
+          </text>
+          <text id="/data/eu2:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/eu2:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/eu2:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/eu3:label">
+            <value>Tenho boa saúde</value>
+          </text>
+          <text id="/data/eu3:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/eu3:option1">
+            <value>À vezes - mais ou menos</value>
+          </text>
+          <text id="/data/eu3:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/eu3:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/eu3:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/eu4:label">
+            <value>Eu me sinto muito feliz </value>
+          </text>
+          <text id="/data/eu4:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/eu4:option1">
+            <value>Às vezes - mais ou menos</value>
+          </text>
+          <text id="/data/eu4:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/eu4:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/eu4:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/eu5:label">
+            <value>Quando eu crescer, eu acho que serei muito feliz</value>
+          </text>
+          <text id="/data/eu5:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/eu5:option1">
+            <value>Às vezes - mais ou menos</value>
+          </text>
+          <text id="/data/eu5:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/eu5:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/eu5:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/FavelaNews1:label">
+            <value>A minha comunidade aparece na televisão</value>
+          </text>
+          <text id="/data/FavelaNews1:option0">
+            <value>Nunca - Nem um pouco</value>
+          </text>
+          <text id="/data/FavelaNews1:option1">
+            <value>Às vezes - mais ou menos</value>
+          </text>
+          <text id="/data/FavelaNews1:option2">
+            <value>Quase sempre </value>
+          </text>
+          <text id="/data/FavelaNews1:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/FavelaNews1:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/FavelaNews2:label">
+            <value>Eu já vi coisas boas sobre a minha comunidade na televisão</value>
+          </text>
+          <text id="/data/FavelaNews2:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/FavelaNews2:option1">
+            <value>Às vezes - mais ou menos</value>
+          </text>
+          <text id="/data/FavelaNews2:option2">
+            <value>Quase sempre </value>
+          </text>
+          <text id="/data/FavelaNews2:option3">
+            <value>Não que responder</value>
+          </text>
+          <text id="/data/FavelaNews2:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/FavelaNews3:label">
+            <value>O que falam da minha comunidade na televisão é verdade</value>
+          </text>
+          <text id="/data/FavelaNews3:option0">
+            <value>Nunca - nem tanto</value>
+          </text>
+          <text id="/data/FavelaNews3:option1">
+            <value>Às vezes - mais ou menos</value>
+          </text>
+          <text id="/data/FavelaNews3:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/FavelaNews3:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/FavelaNews3:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/FavelaNews4:label">
+            <value>Eu fico sabendo das coisas que acontecem na minha comunidade</value>
+          </text>
+          <text id="/data/FavelaNews4:option0">
+            <value>Nunca - Nem um pouco</value>
+          </text>
+          <text id="/data/FavelaNews4:option1">
+            <value>Às vezes - mais ou menos</value>
+          </text>
+          <text id="/data/FavelaNews4:option2">
+            <value>Quase sempre </value>
+          </text>
+          <text id="/data/FavelaNews4:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/FavelaNews4:option4">
+            <value>Não se aplica</value>
+          </text>
+          <text id="/data/FavelaNews5:label">
+            <value>As pessoas na minha casa assistem televisão</value>
+          </text>
+          <text id="/data/FavelaNews5:option0">
+            <value>Nunca - nem um pouco</value>
+          </text>
+          <text id="/data/FavelaNews5:option1">
+            <value>Às vezes - mais ou menos</value>
+          </text>
+          <text id="/data/FavelaNews5:option2">
+            <value>Quase sempre</value>
+          </text>
+          <text id="/data/FavelaNews5:option3">
+            <value>Não quer responder</value>
+          </text>
+          <text id="/data/FavelaNews5:option4">
+            <value>Não se aplica</value>
+          </text>
+        </translation>
+      </itext>
+      <bind nodeset="/data/meta/instanceID" type="string" readonly="true()" calculate="concat('uuid:', uuid())"/>
+      <bind nodeset="/data/Identificacao/Data" type="date"/>
+      <bind nodeset="/data/Identificacao/localGps" type="geopoint"/>
+      <bind nodeset="/data/Identificacao/Localizacao" type="string"/>
+      <bind nodeset="/data/Identificacao/Genero" type="select1"/>
+      <bind nodeset="/data/Identificacao/ondemora" type="string"/>
+      <bind nodeset="/data/Identificacao/Idade" type="string"/>
+      <bind nodeset="/data/teste1" type="select1"/>
+      <bind nodeset="/data/teste2" type="select1"/>
+      <bind nodeset="/data/comunidade1" type="select1"/>
+      <bind nodeset="/data/comunidade2" type="select1"/>
+      <bind nodeset="/data/comunidade3" type="select1"/>
+      <bind nodeset="/data/comunidade4" type="select1"/>
+      <bind nodeset="/data/comunidade5" type="select1"/>
+      <bind nodeset="/data/casa1" type="select1"/>
+      <bind nodeset="/data/casa2" type="select1"/>
+      <bind nodeset="/data/casa3" type="select1"/>
+      <bind nodeset="/data/casa4" type="select1"/>
+      <bind nodeset="/data/casa5" type="select1"/>
+      <bind nodeset="/data/escola1" type="select1"/>
+      <bind nodeset="/data/escola2" type="select1"/>
+      <bind nodeset="/data/escola3" type="select1"/>
+      <bind nodeset="/data/escola4" type="select1"/>
+      <bind nodeset="/data/escola5" type="select1"/>
+      <bind nodeset="/data/espacos1" type="select1"/>
+      <bind nodeset="/data/espacos2" type="select1"/>
+      <bind nodeset="/data/espacos3" type="select1"/>
+      <bind nodeset="/data/espacos4" type="select1"/>
+      <bind nodeset="/data/espacos5" type="select1"/>
+      <bind nodeset="/data/pessoas1" type="select1"/>
+      <bind nodeset="/data/pessoas2" type="select1"/>
+      <bind nodeset="/data/pessoas3" type="select1"/>
+      <bind nodeset="/data/pessoas4" type="select1"/>
+      <bind nodeset="/data/pessoas5" type="select1"/>
+      <bind nodeset="/data/eu1" type="select1"/>
+      <bind nodeset="/data/eu2" type="select1"/>
+      <bind nodeset="/data/eu3" type="select1"/>
+      <bind nodeset="/data/eu4" type="select1"/>
+      <bind nodeset="/data/eu5" type="select1"/>
+      <bind nodeset="/data/FavelaNews1" type="select1"/>
+      <bind nodeset="/data/FavelaNews2" type="select1"/>
+      <bind nodeset="/data/FavelaNews3" type="select1"/>
+      <bind nodeset="/data/FavelaNews4" type="select1"/>
+      <bind nodeset="/data/FavelaNews5" type="select1"/>
+    </model>
+  </h:head>
+  <h:body>
+    <group appearance="field-list">
+      <label ref="jr:itext('/data/Identificacao:label')"/>
+      <input ref="/data/Identificacao/Data">
+        <label ref="jr:itext('/data/Identificacao/Data:label')"/>
+      </input>
+      <input ref="/data/Identificacao/localGps">
+        <label ref="jr:itext('/data/Identificacao/localGps:label')"/>
+      </input>
+      <input ref="/data/Identificacao/Localizacao">
+        <label ref="jr:itext('/data/Identificacao/Localizacao:label')"/>
+      </input>
+      <select1 ref="/data/Identificacao/Genero">
+        <label ref="jr:itext('/data/Identificacao/Genero:label')"/>
+        <item>
+          <label ref="jr:itext('/data/Identificacao/Genero:option0')"/>
+          <value>M</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/Identificacao/Genero:option1')"/>
+          <value>F</value>
+        </item>
+      </select1>
+      <input ref="/data/Identificacao/ondemora">
+        <label ref="jr:itext('/data/Identificacao/ondemora:label')"/>
+      </input>
+      <input ref="/data/Identificacao/Idade">
+        <label ref="jr:itext('/data/Identificacao/Idade:label')"/>
+      </input>
+    </group>
+    <select1 ref="/data/teste1">
+      <label ref="jr:itext('/data/teste1:label')"/>
+      <hint ref="jr:itext('/data/teste1:hint')"/>
+      <item>
+        <label ref="jr:itext('/data/teste1:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/teste1:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/teste1:option2')"/>
+        <value>0</value>
+      </item>
+    </select1>
+    <select1 ref="/data/teste2">
+      <label ref="jr:itext('/data/teste2:label')"/>
+      <item>
+        <label ref="jr:itext('/data/teste2:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/teste2:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/teste2:option2')"/>
+        <value>0</value>
+      </item>
+    </select1>
+    <select1 ref="/data/comunidade1">
+      <label ref="jr:itext('/data/comunidade1:label')"/>
+      <item>
+        <label ref="jr:itext('/data/comunidade1:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade1:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade1:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade1:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade1:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/comunidade2">
+      <label ref="jr:itext('/data/comunidade2:label')"/>
+      <hint ref="jr:itext('/data/comunidade2:hint')"/>
+      <item>
+        <label ref="jr:itext('/data/comunidade2:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade2:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade2:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade2:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade2:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/comunidade3">
+      <label ref="jr:itext('/data/comunidade3:label')"/>
+      <item>
+        <label ref="jr:itext('/data/comunidade3:option0')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade3:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade3:option2')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade3:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade3:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/comunidade4">
+      <label ref="jr:itext('/data/comunidade4:label')"/>
+      <hint ref="jr:itext('/data/comunidade4:hint')"/>
+      <item>
+        <label ref="jr:itext('/data/comunidade4:option0')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade4:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade4:option2')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade4:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade4:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/comunidade5">
+      <label ref="jr:itext('/data/comunidade5:label')"/>
+      <hint ref="jr:itext('/data/comunidade5:hint')"/>
+      <item>
+        <label ref="jr:itext('/data/comunidade5:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade5:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade5:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade5:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/comunidade5:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/casa1">
+      <label ref="jr:itext('/data/casa1:label')"/>
+      <hint ref="jr:itext('/data/casa1:hint')"/>
+      <item>
+        <label ref="jr:itext('/data/casa1:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa1:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa1:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa1:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa1:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/casa2">
+      <label ref="jr:itext('/data/casa2:label')"/>
+      <hint ref="jr:itext('/data/casa2:hint')"/>
+      <item>
+        <label ref="jr:itext('/data/casa2:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa2:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa2:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa2:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa2:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/casa3">
+      <label ref="jr:itext('/data/casa3:label')"/>
+      <item>
+        <label ref="jr:itext('/data/casa3:option0')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa3:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa3:option2')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa3:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa3:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/casa4">
+      <label ref="jr:itext('/data/casa4:label')"/>
+      <item>
+        <label ref="jr:itext('/data/casa4:option0')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa4:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa4:option2')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa4:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa4:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/casa5">
+      <label ref="jr:itext('/data/casa5:label')"/>
+      <item>
+        <label ref="jr:itext('/data/casa5:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa5:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa5:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa5:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/casa5:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/escola1">
+      <label ref="jr:itext('/data/escola1:label')"/>
+      <hint ref="jr:itext('/data/escola1:hint')"/>
+      <item>
+        <label ref="jr:itext('/data/escola1:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola1:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola1:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola1:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola1:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/escola2">
+      <label ref="jr:itext('/data/escola2:label')"/>
+      <hint ref="jr:itext('/data/escola2:hint')"/>
+      <item>
+        <label ref="jr:itext('/data/escola2:option0')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola2:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola2:option2')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola2:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola2:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/escola3">
+      <label ref="jr:itext('/data/escola3:label')"/>
+      <hint ref="jr:itext('/data/escola3:hint')"/>
+      <item>
+        <label ref="jr:itext('/data/escola3:option0')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola3:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola3:option2')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola3:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola3:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/escola4">
+      <label ref="jr:itext('/data/escola4:label')"/>
+      <hint ref="jr:itext('/data/escola4:hint')"/>
+      <item>
+        <label ref="jr:itext('/data/escola4:option0')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola4:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola4:option2')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola4:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola4:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/escola5">
+      <label ref="jr:itext('/data/escola5:label')"/>
+      <item>
+        <label ref="jr:itext('/data/escola5:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola5:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola5:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola5:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/escola5:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/espacos1">
+      <label ref="jr:itext('/data/espacos1:label')"/>
+      <item>
+        <label ref="jr:itext('/data/espacos1:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos1:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos1:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos1:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos1:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/espacos2">
+      <label ref="jr:itext('/data/espacos2:label')"/>
+      <hint ref="jr:itext('/data/espacos2:hint')"/>
+      <item>
+        <label ref="jr:itext('/data/espacos2:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos2:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos2:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos2:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos2:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/espacos3">
+      <label ref="jr:itext('/data/espacos3:label')"/>
+      <hint ref="jr:itext('/data/espacos3:hint')"/>
+      <item>
+        <label ref="jr:itext('/data/espacos3:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos3:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos3:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos3:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos3:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/espacos4">
+      <label ref="jr:itext('/data/espacos4:label')"/>
+      <hint ref="jr:itext('/data/espacos4:hint')"/>
+      <item>
+        <label ref="jr:itext('/data/espacos4:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos4:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos4:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos4:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos4:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/espacos5">
+      <label ref="jr:itext('/data/espacos5:label')"/>
+      <item>
+        <label ref="jr:itext('/data/espacos5:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos5:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos5:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos5:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/espacos5:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/pessoas1">
+      <label ref="jr:itext('/data/pessoas1:label')"/>
+      <item>
+        <label ref="jr:itext('/data/pessoas1:option0')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas1:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas1:option2')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas1:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas1:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/pessoas2">
+      <label ref="jr:itext('/data/pessoas2:label')"/>
+      <hint ref="jr:itext('/data/pessoas2:hint')"/>
+      <item>
+        <label ref="jr:itext('/data/pessoas2:option0')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas2:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas2:option2')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas2:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas2:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/pessoas3">
+      <label ref="jr:itext('/data/pessoas3:label')"/>
+      <item>
+        <label ref="jr:itext('/data/pessoas3:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas3:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas3:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas3:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas3:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/pessoas4">
+      <label ref="jr:itext('/data/pessoas4:label')"/>
+      <hint ref="jr:itext('/data/pessoas4:hint')"/>
+      <item>
+        <label ref="jr:itext('/data/pessoas4:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas4:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas4:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas4:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas4:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/pessoas5">
+      <label ref="jr:itext('/data/pessoas5:label')"/>
+      <item>
+        <label ref="jr:itext('/data/pessoas5:option0')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas5:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas5:option2')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas5:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/pessoas5:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/eu1">
+      <label ref="jr:itext('/data/eu1:label')"/>
+      <item>
+        <label ref="jr:itext('/data/eu1:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu1:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu1:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu1:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu1:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/eu2">
+      <label ref="jr:itext('/data/eu2:label')"/>
+      <item>
+        <label ref="jr:itext('/data/eu2:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu2:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu2:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu2:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu2:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/eu3">
+      <label ref="jr:itext('/data/eu3:label')"/>
+      <item>
+        <label ref="jr:itext('/data/eu3:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu3:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu3:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu3:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu3:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/eu4">
+      <label ref="jr:itext('/data/eu4:label')"/>
+      <item>
+        <label ref="jr:itext('/data/eu4:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu4:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu4:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu4:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu4:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/eu5">
+      <label ref="jr:itext('/data/eu5:label')"/>
+      <item>
+        <label ref="jr:itext('/data/eu5:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu5:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu5:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu5:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/eu5:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/FavelaNews1">
+      <label ref="jr:itext('/data/FavelaNews1:label')"/>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews1:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews1:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews1:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews1:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews1:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/FavelaNews2">
+      <label ref="jr:itext('/data/FavelaNews2:label')"/>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews2:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews2:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews2:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews2:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews2:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/FavelaNews3">
+      <label ref="jr:itext('/data/FavelaNews3:label')"/>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews3:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews3:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews3:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews3:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews3:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/FavelaNews4">
+      <label ref="jr:itext('/data/FavelaNews4:label')"/>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews4:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews4:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews4:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews4:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews4:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+    <select1 ref="/data/FavelaNews5">
+      <label ref="jr:itext('/data/FavelaNews5:label')"/>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews5:option0')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews5:option1')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews5:option2')"/>
+        <value>0</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews5:option3')"/>
+        <value>66</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/FavelaNews5:option4')"/>
+        <value>99</value>
+      </item>
+    </select1>
+  </h:body>
+</h:html>
